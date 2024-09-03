@@ -1,0 +1,3 @@
+Link : https://drive.google.com/drive/folders/1spcRSXugSx7tyDLLkoHhsjIindcmSlkx?usp=sharing
+
+The Google Drive contains all the images, CSVs (DataFrames) , and Orgainzed Folders for Model Training
